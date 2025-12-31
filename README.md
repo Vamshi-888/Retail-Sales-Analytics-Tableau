@@ -14,7 +14,7 @@ This project analyzes retail sales performance using Tableau. It helps understan
 - Excel / CSV Dataset
 
 ## 🔗 Live Dashboard
-[View on Tableau Public](PASTE YOUR LINK HERE)
+https://public.tableau.com/app/profile/meda.vamshi.krishna/viz/RetailSalesAnalyticsDashboard_17671670123140/Dashboard1?publish=yes
 
 ## ✅ Key Insights
 - Identified top revenue-generating categories
